@@ -14,4 +14,4 @@ class Config(object):
     AUTH_USERS = "6674754789"""
 
 
-# jisko bhi is repo ko deploy karne me error aa raha ho ( https://t.me/Stubborn1223 ) ye mere TG ka id ha message karke iska screen shot send kar dena me error solve kar dunga. 
+# jisko bhi is repo ko deploy karne me error aa raha ho ( https://t.me/IamTgRK ) ye mere TG ka id ha message karke iska screen shot send kar dena me error solve kar dunga. 
